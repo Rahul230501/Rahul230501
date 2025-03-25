@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Rahul Kumar!
 
-🚀 **Android & Java Developer** | **Spring Boot Enthusiast** | **Full-Stack Developer**  
+🚀 ** Java Developer** | **Spring Boot Enthusiast** | **Full-Stack Developer**  
 💡 Passionate about building scalable applications using Java, Spring Boot, WebSockets, and MySQL.  
 
 ## 🛠 Tech Stack  
